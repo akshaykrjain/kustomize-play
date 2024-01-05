@@ -1,0 +1,5 @@
+resources:
+  - ../../../applications/bar
+replicas:
+  - name: bar
+    count: 1

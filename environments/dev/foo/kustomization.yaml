@@ -1,0 +1,5 @@
+resources:
+  - ../../../applications/foo
+replicas:
+  - name: foo
+    count: 1
